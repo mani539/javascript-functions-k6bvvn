@@ -1,0 +1,11 @@
+#input-a,
+#result {
+  position: relative;
+  display: block;
+  font-size: 2em;
+  padding: 0;
+}
+
+button {
+  padding: 1em;
+}
